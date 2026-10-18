@@ -1,0 +1,99 @@
+{
+  "checks": [
+    {
+      "Q": 5883,
+      "expanded": {
+        "Q": 5883,
+        "levels": 6000,
+        "dps": 90,
+        "remaining_height_budget": "4.884345149788193",
+        "u_absolute_bound": "0.014169956268661377719279",
+        "theta_x_absolute_bound": "0.0000775349403154530983304599272361194596359396055",
+        "theta_y_absolute_bound": "0.0586980325017626867592960874439378760833913439",
+        "linear_phase_bound": "0.187447511529763359582656428069700911695997889",
+        "cubic_phase_bound": "1.98445966500129354693312343952176480204042353",
+        "infinite_tail_bound": "2.43124070252799376347574849194435462554259975e-23",
+        "fock_residual_phase_allowance": "2.54785192490237838526270699999651221596832939e-72",
+        "absolute_unwrapped_phase_bound": "2.17190717653105690651580417999849099367405617",
+        "saddle_phase_distance": "2.71679050775250949813070210493042083640461981",
+        "phase_exclusion_margin": "0.544883331221452591614897924931929842730563641",
+        "phase_excluded": true,
+        "interval_certified": false,
+        "scope": "Global angle localization and global Taylor inequality, numerically evaluated inputs and sums."
+      },
+      "changes_from_5000level_70dps": {
+        "linear_phase_bound": "6.924313530527328647955499999999999999999999999999999999999999999999999e-23",
+        "cubic_phase_bound": "0.00000000000000000004073216729350478053201012",
+        "absolute_unwrapped_phase_bound": "0.00000000000000000080134578320853342299070034",
+        "phase_exclusion_margin": "0.000000000000000000801345783208533422990700338"
+      },
+      "Y_bound_required_nonnegative_argument": "0.9990047712183195743369342359443543370479500929520043097862291512699387",
+      "independent_complex_geometric_xloss_max_difference": "9.354750491098330076922853175938772065621960961578020218296664038326488e-83",
+      "interval_certified": false
+    },
+    {
+      "Q": 5884,
+      "expanded": {
+        "Q": 5884,
+        "levels": 6000,
+        "dps": 90,
+        "remaining_height_budget": "10.7661356674917",
+        "u_absolute_bound": "0.019194307634105566817127",
+        "theta_x_absolute_bound": "0.000115125203341982052558533817465317090137155881",
+        "theta_y_absolute_bound": "0.0871570533817133538560152523402121236578226902",
+        "linear_phase_bound": "0.510714280932952957713139763571074506699228675",
+        "cubic_phase_bound": "6.49782059512176830419743481767112016776398592",
+        "infinite_tail_bound": "7.94842451212014223198107573516902751119661102e-23",
+        "fock_residual_phase_allowance": "3.78232038244286034335419956131889922486546098e-72",
+        "absolute_unwrapped_phase_bound": "7.00853487605472126191065406548731587588553441",
+        "saddle_phase_distance": "0.424725264439384931099415663844071179747869132",
+        "phase_exclusion_margin": "-6.58380961161533633081123840164324469613766528",
+        "phase_excluded": false,
+        "interval_certified": false,
+        "scope": "Global angle localization and global Taylor inequality, numerically evaluated inputs and sums."
+      },
+      "changes_from_5000level_70dps": {
+        "linear_phase_bound": "0.0000000000000000000001884753173741346625621",
+        "cubic_phase_bound": "0.00000000000000000013321754475330871666878224",
+        "absolute_unwrapped_phase_bound": "0.00000000000000000262026281476397882342402756",
+        "phase_exclusion_margin": "0.00000000000000000262026281476397882342402755"
+      },
+      "Y_bound_required_nonnegative_argument": "0.9978061437929114045692426275620250412643370862343244408295512005102514",
+      "independent_complex_geometric_xloss_max_difference": "8.677776438592169724911512377013656932590610643212545499396172936390696e-83",
+      "interval_certified": false
+    },
+    {
+      "Q": 5940,
+      "expanded": {
+        "Q": 5940,
+        "levels": 6000,
+        "dps": 90,
+        "remaining_height_budget": "339.3509678561296",
+        "u_absolute_bound": "0.1033834731374959541262",
+        "theta_x_absolute_bound": "0.000650294338501027961519596468628898963625422673",
+        "theta_y_absolute_bound": "0.492729801969781540229391421225787616022576777",
+        "linear_phase_bound": "83.8815827400014828046535198642335021032807696",
+        "cubic_phase_bound": "1187.42136568152950816751284708230569152107567",
+        "infinite_tail_bound": "1.34072086515951161540716978437490346700789993e-20",
+        "fock_residual_phase_allowance": "2.11226637959451961244633539664024057130337786e-71",
+        "absolute_unwrapped_phase_bound": "1271.30294842153099097217977415519078874051051",
+        "saddle_phase_distance": "0.420423874458804621472110102933820945452827194",
+        "phase_exclusion_margin": "-1270.88252454707218635070766405225696779505768",
+        "phase_excluded": false,
+        "interval_certified": false,
+        "scope": "Global angle localization and global Taylor inequality, numerically evaluated inputs and sums."
+      },
+      "changes_from_5000level_70dps": {
+        "linear_phase_bound": "0.0000000000000000000293212440889618834919747",
+        "cubic_phase_bound": "0.00000000000000002281758560543164372884714",
+        "absolute_unwrapped_phase_bound": "0.00000000000000044679153845356097386376117",
+        "phase_exclusion_margin": "0.00000000000000044679153845356097386376117"
+      },
+      "Y_bound_required_nonnegative_argument": "0.9305468067294358801969084531324690668821437733590145281842166166942216",
+      "independent_complex_geometric_xloss_max_difference": "3.443560193091148935203257531867620835664995334604733888860711868417123e-83",
+      "interval_certified": false
+    }
+  ],
+  "seconds": 1.2920112499850802,
+  "interval_certified": false
+}
